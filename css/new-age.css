@@ -332,6 +332,10 @@ section.contact h2 i {
   color: #dd4b39;
 }
 
+.contact-info {
+    color: white;
+}
+
 section.contact ul.list-social {
   margin-bottom: 0;
 }
@@ -422,9 +426,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #d1d1f6;
-  background: -webkit-linear-gradient(#d1d1f6, #d1d1f6);
-  background: linear-gradient(#d1d1f6, #d1d1f6);
+  background: #be91ea;
+  background: -webkit-linear-gradient(#be91ea, #be91ea);
+  background: linear-gradient(#be91ea, #be91ea);
 }
 
 .text-primary {
@@ -458,4 +462,12 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px;
+}
+
+.store-container {
+    text-align: center;
+}
+
+.cursive-font {
+    font-family: 'Merienda One', cursive;
 }
