@@ -471,3 +471,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .cursive-font {
     font-family: 'Merienda One', cursive;
 }
+
+.main-store {
+    font-size: 18px;
+    font-weight: 900;
+}
